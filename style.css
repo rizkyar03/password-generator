@@ -41,6 +41,7 @@ h1 {
     height: 42px;
     border: 1px solid black;
     border-radius: 10px;
+    cursor: text;
 }
 
 .generated-password-box span {
