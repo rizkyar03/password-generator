@@ -1,0 +1,66 @@
+/* CSS RESET */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    /* Color Pallete */
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #3C3C3C;
+}
+
+main {
+    padding: 20px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background: #fafafa;
+}
+
+
+h1 {
+    font-size: 1.5rem;
+}
+
+.generated-password-box {
+    margin: 30px 0;
+    position: relative;
+}
+
+.generated-password-box input {
+    width: 100%;
+    padding: 10px 44px 10px 20px;
+    height: 42px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.generated-password-box span {
+    position: absolute;
+    height: 42px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.generated-password-box span img {
+    height: 20px;
+    margin: 11px 0;
+}
+
+.settings {
+    display: flex;
+    margin: 20px 0;
+}
+
+.option * {
+    cursor: pointer;
+}
+
