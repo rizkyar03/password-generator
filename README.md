@@ -1,3 +1,5 @@
 # Password Generator
 
-Simple password generator using HTML, CSS, and JavaScript
+Simple password generator
+
+Built using HTML, CSS, and JavaScript.
