@@ -1,5 +1,5 @@
 # Password Generator
 
-Simple password generator
+Simple Password Generator
 
 Built using HTML, CSS, and JavaScript.
